@@ -1,0 +1,6 @@
+{
+  "name": "TaskFlow – Task Management System",
+  "description": "A clean, responsive task management dashboard to create, organize, filter, sort, update, complete, and delete tasks with Firebase Firestore and localStorage persistence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
